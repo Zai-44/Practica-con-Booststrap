@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    background-color: aquamarine;
+}
+p{font-size: large;
+    column-width: auto;
+text-decoration:solid;
+}
+h2{
+    text-align: center;
+    background-color: aquamarine;
+}
+img{
+    width:80%;
+    height: auto;
+    margin: 0 10% ;
+    animation-iteration-count:inherit;
+    image-resolution: 470%;
+}

@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    background-color: rgb(89, 234, 89);
+}
+h2{
+    text-align: center;
+    background-color: rgb(140, 235, 102);
+}
+p{
+    font-size: large;
+    width:auto ;
+    font: optional 20%;
+}
+img{
+    width:80%;
+    height: auto;
+    margin: 0 10% ;
+    animation-iteration-count:inherit;
+    image-resolution: 470%;
+}
